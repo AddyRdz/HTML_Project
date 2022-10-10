@@ -1,9 +1,15 @@
 
-nav{
-    float:right;
+.navigation{
+    display: block;
     font-size: 1.125em;
     margin-right: 5%;
+    margin-top: 12px;
     text-align:right;
-    width: 45%;
-    
+    /* width: 45%; */
 }
+#bio{
+    color: red;
+    justify-content: center;
+   margin-top: 30px;
+}
+
