@@ -14,7 +14,7 @@ a{
     /* display: flex; */
     /* color: black; */
     /* justify-content: center; */
-    margin-top: 18%;
+    margin-top: 15%;
     /* text-align: left; */
     flex-wrap: wrap;
     /* border: 4px solid black; */
@@ -56,13 +56,23 @@ body{
      /* display: flex; */
     /* color: black; */
     /* justify-content: center; */
-    margin-top: 18%;
+    /* margin-top: 18%; */
     /* text-align: left; */
     flex-wrap: wrap;
     /* border: 4px solid black; */
     padding: 10px;
     max-width: 40rem;
-    margin-left: 10px;
+    margin-left: 20px;
+    
+}
+.experienceTitle{
+    margin-left: 20px;
+}
+.aboutTitle{
+    margin-left: 20px;
+}
+.portfolioTitle{
+    margin-left: 20px;
 }
 #portfolio{
     /* display: flex; */
