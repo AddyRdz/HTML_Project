@@ -86,3 +86,37 @@ body{
    max-width: 40rem;
    margin-left: 10px;
 }
+.portfolio{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    /* align-items: center; */
+    height: 100vh;
+}
+.panel{
+    width: 50px;
+    height: 50vh;
+    box-shadow: 0 0 10px black;
+    margin: 20px;
+    margin-left: 40px;
+    border-radius: 20px;
+    width: 180px;
+    background: no-repeat scroll center;
+
+}
+#panel_1{
+    background-image: url(/assets/MyPetPro\ copy.jpeg);
+    background-size: 1000px;
+}
+#panel_2{
+    background-image: url(/assets/EBB\ copy.jpeg);
+    background-size: 1000px;
+}
+#panel_3{
+    background-image: url(/assets/CodingPals\ copy.jpeg);
+    background-size: 1000px;
+}
+#panel_4{
+    background-image: url(/assets/Blackjack.png);
+    background-size: 1000px;
+}
