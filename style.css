@@ -98,10 +98,30 @@ body{
     height: 50vh;
     box-shadow: 0 0 10px black;
     margin: 20px;
-    margin-left: 40px;
+    margin-left: 30px;
     border-radius: 20px;
     width: 180px;
     background: no-repeat scroll center;
+    transition: all 0.5s linear;
+    position: relative;
+
+}
+.panel h3{
+    position: absolute;
+    left: 0;
+    margin-left: 10px;
+    bottom: 50px;
+    color:white;
+    font-size: 25px;
+    transform: rotate(-90deg);
+    transition: all 0.5s linear;
+}
+.active{
+    width: 400px;
+}
+.active h3{
+    transform: rotate(0deg);
+    text-shadow: 0 0 4px black;
 
 }
 #panel_1{
