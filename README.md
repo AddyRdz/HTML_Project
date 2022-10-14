@@ -12,4 +12,5 @@ Create a suitable page that will show a Home page, Bio page, Experience page, an
 # Stretch Goals
 >* Dark & Light Mode
 >* More Responsive to Mobile Devices
+>* Create a mobile hamburger menu
 

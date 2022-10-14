@@ -157,3 +157,19 @@ body{
     background-image: url(/assets/Blackjack.png);
     background-size: 1000px;
 }
+
+@media screen and (max-width: 500px){
+    .navigation{
+        flex-direction: row;
+        height: 20vh;
+    }
+
+    main{
+        height: 70vh;
+        width: 100%
+    }
+    body{
+        background-image: url(/assets/apple-2568755_1280.jpg);
+    }
+    
+}
