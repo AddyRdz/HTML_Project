@@ -142,11 +142,11 @@ body{
 
 }
 #panel_1{
-    background-image: url(/assets/MyPetPro\ copy.jpeg);
+    background-image: url(https://github.com/AddyRdz/HTML_Project/blob/main/assets/MyPetPro%20copy.jpeg?raw=true);
     background-size: 1000px;
 }
 #panel_2{
-    background-image: url(assets/EBB\ copy.jpeg);
+    background-image: url(/assets/EBB\ copy.jpeg);
     background-size: 1000px;
 }
 #panel_3{
