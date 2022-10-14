@@ -4,7 +4,12 @@ This project is all about me! It consists of a Home page, a Bio page, an Experie
 # Technologies Used
 HTML
 CSS
+JS
 
 # MVP Goals
+Create a suitable page that will show a Home page, Bio page, Experience page, and portfolio page.
 
 # Stretch Goals
+Dark & Light Mode
+
+# Wireframe
