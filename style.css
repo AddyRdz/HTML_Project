@@ -14,6 +14,9 @@ a{
     text-decoration: none;
 
 }
+a:hover{
+    color:hsl(31, 42%, 75%);
+}
 #intro{
     /* display: flex; */
     /* color: black; */
@@ -29,6 +32,9 @@ a{
 }
 button{
     border-radius: 15px;
+}
+button:hover{
+    background-color:hsl(31, 42%, 75%);
 }
 h1{
     font-size: 45px;
